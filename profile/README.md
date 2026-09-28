@@ -176,9 +176,9 @@ Authentication is handled by the backend using JWT.
 
 Every user can have a unique referral code.
 
-Example:
+Example: just used username as it
 
-EX123456
+Example Abus3355
 
 Referral links can be generated automatically.
 
